@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://faridahmedsakib.blogspot.com//sitemap.xml
+Sitemap: https://farid.fintops.info//sitemap.xml
