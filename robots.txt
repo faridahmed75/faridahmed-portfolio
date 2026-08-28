@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faridahmedsakib.blogspot.com//sitemap.xml
