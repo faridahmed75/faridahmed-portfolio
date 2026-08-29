@@ -3,7 +3,7 @@
 An interactive, single-page portfolio website designed for a Technical Project Manager & Digital Transformation Leader. Built with modern web standards, featuring lightweight glassmorphism, dynamic data configuration, scroll animations, and multi-channel contact integrations.
 
 ## 🚀 Live Demo
-- **Portfolio:** [farid.fintops.info](https://farid.fintops.info/) <!-- Replace with your actual live domain or GitHub Pages link -->
+- **Portfolio:** [Farid Ahmed](https://faridahmed75.github.io/faridahmed-portfolio/) <!-- Replace with your actual live domain or GitHub Pages link -->
 
 ## ✨ Features
 - **Dynamic Content Engine:** All site text, projects, skills, and experience items are centrally configured via a single JSON-style JavaScript object (`siteData`) inside `index.html`.
@@ -16,6 +16,10 @@ An interactive, single-page portfolio website designed for a Technical Project M
 ```text
 .
 ├── index.html       # Single-page dynamic HTML/JS application
+├── css/
+│   └── styles.css   # Custom component styles, overrides, & layout fixes
+├── js/
+│   └── main.js      # App interactivity (mobile drawer, search, podcast player)
 ├── README.md        # Documentation
 ├── LICENSE          # MIT Open-Source License
 ├── robots.txt       # Search Engine Crawler Instructions
